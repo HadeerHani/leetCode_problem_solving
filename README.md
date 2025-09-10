@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/HadeerHani/leetCode_problem_solving/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/HadeerHani/leetCode_problem_solving/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
